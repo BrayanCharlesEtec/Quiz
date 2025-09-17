@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Em programação orientada a objetos, qual é o principal objetivo da herança?",
+    option1: "Reduzir o tamanho dos arquivos de código.",
+    option2: "Permitir que uma classe reutilize atributos e métodos de outra.",
+    option3: "Criar funções com nomes diferentes.",
+    option4: "Executar código mais rápido.",
+    ans: 2,
+  },
+  {
+    question: "Em bancos de dados relacionais, qual comando SQL é usado para atualizar valores em uma tabela?",
+    option1: "SELECT",
+    option2: "DELETE",
+    option3: "INSERT",
+    option4: "UPDATE",
+    ans: 4,
+  },
+  {
+    question: "Em JavaScript, qual será a saída do código console.log(typeof NaN);",
+    option1: "number",
+    option2: "NaN",
+    option3: "undefined",
+    option4: "object",
+    ans: 1,
+  },
+  {
+    question: "Qual é a diferença principal entre função síncrona e função assíncrona em JavaScript?",
+    option1: "Síncronas usam mais memória que assíncronas.",
+    option2: "Funções assíncronas podem executar sem bloquear o fluxo principal do programa.",
+    option3: "Funções síncronas nunca retornam valor.",
+    option4: "Não há diferença prática.",
+    ans: 2,
+  },
+  {
+    question: "Em Python, o que o operador *args faz em uma função?",
+    option1: "Define que a função não terá argumentos.",
+    option2: "Indica que a função retorna múltiplos valores.",
+    option3: "Permite passar um número variável de argumentos posicionais.",
+    option4: "Cria um dicionário de argumentos nomeados.",
+    ans: 3,
+  },
+];
